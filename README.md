@@ -15,4 +15,4 @@ The Bot-IoT dataset is also imbalanced, hence, to increase the size of minority 
 
 The approach: 
 <br>
-![image](https://user-images.githubusercontent.com/64693248/164530244-51edcc27-85b4-4079-8534-2aae311be8f4.png)
+![Flowchart_ML_6](https://user-images.githubusercontent.com/64693248/164532991-634d2e0c-ee0c-4771-bebd-4dbc9f638d18.png)
